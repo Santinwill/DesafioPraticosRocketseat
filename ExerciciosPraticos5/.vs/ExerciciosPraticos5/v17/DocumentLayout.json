@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willian.santin\\Desktop\\estudos\\ExerciciosPraticos\\ExerciciosPraticos5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D717101D-9034-43A0-A293-A85C083B1C48}|ExerciciosPraticos5\\ExerciciosPraticos5.csproj|c:\\users\\willian.santin\\desktop\\estudos\\exerciciospraticos\\exerciciospraticos5\\exerciciospraticos5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D717101D-9034-43A0-A293-A85C083B1C48}|ExerciciosPraticos5\\ExerciciosPraticos5.csproj|solutionrelative:exerciciospraticos5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D717101D-9034-43A0-A293-A85C083B1C48}|ExerciciosPraticos5\\ExerciciosPraticos5.csproj|c:\\users\\willian.santin\\desktop\\estudos\\exerciciospraticos\\exerciciospraticos5\\exerciciospraticos5\\validadorplaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D717101D-9034-43A0-A293-A85C083B1C48}|ExerciciosPraticos5\\ExerciciosPraticos5.csproj|solutionrelative:exerciciospraticos5\\validadorplaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidadorPlaca.cs",
+              "DocumentMoniker": "C:\\Users\\willian.santin\\Desktop\\estudos\\ExerciciosPraticos\\ExerciciosPraticos5\\ExerciciosPraticos5\\ValidadorPlaca.cs",
+              "RelativeDocumentMoniker": "ExerciciosPraticos5\\ValidadorPlaca.cs",
+              "ToolTip": "C:\\Users\\willian.santin\\Desktop\\estudos\\ExerciciosPraticos\\ExerciciosPraticos5\\ExerciciosPraticos5\\ValidadorPlaca.cs",
+              "RelativeToolTip": "ExerciciosPraticos5\\ValidadorPlaca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:19:54.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\willian.santin\\Desktop\\estudos\\ExerciciosPraticos\\ExerciciosPraticos5\\ExerciciosPraticos5\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosPraticos5\\Program.cs",
+              "ToolTip": "C:\\Users\\willian.santin\\Desktop\\estudos\\ExerciciosPraticos\\ExerciciosPraticos5\\ExerciciosPraticos5\\Program.cs",
+              "RelativeToolTip": "ExerciciosPraticos5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T20:16:41.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

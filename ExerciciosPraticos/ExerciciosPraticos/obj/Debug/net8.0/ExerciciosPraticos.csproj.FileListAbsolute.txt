@@ -1,0 +1,14 @@
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\bin\Debug\net8.0\ExerciciosPraticos.exe
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\bin\Debug\net8.0\ExerciciosPraticos.deps.json
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\bin\Debug\net8.0\ExerciciosPraticos.runtimeconfig.json
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\bin\Debug\net8.0\ExerciciosPraticos.dll
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\bin\Debug\net8.0\ExerciciosPraticos.pdb
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ExerciciosPraticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ExerciciosPraticos.AssemblyInfoInputs.cache
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ExerciciosPraticos.AssemblyInfo.cs
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ExerciciosPraticos.csproj.CoreCompileInputs.cache
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ExerciciosPraticos.dll
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\refint\ExerciciosPraticos.dll
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ExerciciosPraticos.pdb
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ExerciciosPraticos.genruntimeconfig.cache
+C:\Users\willian.santin\Desktop\estudos\ExerciciosPraticos\ExerciciosPraticos\ExerciciosPraticos\obj\Debug\net8.0\ref\ExerciciosPraticos.dll
